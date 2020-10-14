@@ -19,7 +19,7 @@ Follow the guidelines mentioned in [Contribution Guidelines](https://github.com/
 - <a href="https://github.com/<Contributor>">Contributor Name</a>
 - <a href="https://github.com/<Contributor>">Contributor Name</a>
 
-[goel28priyanshu](https://github.com/goel28priyanshu)
+- [goel28priyanshu](https://github.com/goel28priyanshu)
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
