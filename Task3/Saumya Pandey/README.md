@@ -2,7 +2,7 @@
 
 ![CodeAsylums](https://i.ibb.co/6wyhHNc/Code-Asylums-Community-1.png)
 
-## Task 2
+## Task 3
 
 > Scrape the link: <http://quotes.toscrape.com/page/1> to get all the quotes in the given web page and make a REST API.Optional Task: Do the above task for the first 10 pages in the link. Save the data in a database
 
